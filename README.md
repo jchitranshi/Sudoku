@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku game using Python and tkinter for GUI.
+#Sudoku game using Python and tkinter for GUI.
